@@ -1,2 +1,2 @@
 # Codsoft-task-2
-A simple calculator built by using python
+A simple basic calculator built using python Tkinter to perform basic mathematical operations.
